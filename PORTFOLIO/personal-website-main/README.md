@@ -1,12 +1,6 @@
-# Ata Berkay Karakus Portfolio Website 🌐
+# Juan Francisco Portfolio Website 🌐
 
 Welcome to my personal portfolio website repository! This site is built to showcase my projects, skills, and professional background.
-
-## 🖥️ Live Website
-Check out my portfolio live at [berkaykrks.netlify.app](https://berkaykrks.netlify.app/).
-
-## DEMO
-![project-photo](/images/github.png)
 
 ## 🚀 About This Project
 
@@ -27,9 +21,6 @@ This website is a personal portfolio where I share my development projects and p
 ## 📧 Contact Me
 
 For inquiries or collaboration opportunities, reach out via:
-- [Email](mailto:karakusataberkay@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/berkaykrks/)
+- [Email](mailto:juanfranciscomoralesplaza30@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/juan-francisco-morales-plaza-383115254/)
 
-## 📄 License
-
-This project is licensed under the MIT License.
