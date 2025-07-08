@@ -85,13 +85,13 @@ form.addEventListener("submit",(e) => {
 document.getElementById('downloadCv').addEventListener('click', function(event) {
     event.preventDefault(); 
     if (confirm('Do you want to download the CV file?')) {
-        window.location.href = 'CV Juan Francisco.pdf'; 
+        window.location.href = 'CV Morales Plaza Juan Francisco.pdf'; 
     }
 });
 
 document.getElementById('downloadCv2').addEventListener('click', function(event) {
     event.preventDefault(); 
     if (confirm('Do you want to download the CV file?')) {
-        window.location.href = 'CV Juan Francisco.pdf'; 
+        window.location.href = 'CV Morales Plaza Juan Francisco.pdf'; 
     }
 });
